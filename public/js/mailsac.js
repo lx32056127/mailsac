@@ -41,7 +41,7 @@ mailsac.controller('GlobalController', ['$rootScope', function ($rootScope) {
             window.open('/inbox/' + prefix, '_self');
             return;
         }
-        if (!postfix) postfix = '@mailsac.com';
+        if (!postfix) postfix = '@flase.club';
         window.open('/inbox/' + prefix + postfix, '_self');
     };
 }]);

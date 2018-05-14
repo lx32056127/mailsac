@@ -17,7 +17,7 @@
         "debug": false,
         "secureConnection": true
     },
-    "max_messages": 10,
+    "max_messages": 1000,
     "max_message_age_days": 7,
     "removal_interval": 600000,
     "inboxSalt": "definitely-change-this",
